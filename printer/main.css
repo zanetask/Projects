@@ -1,4 +1,4 @@
-input {
+input, textarea {
     display: block;
     margin: 5px;
 }
